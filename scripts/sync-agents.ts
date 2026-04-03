@@ -16,7 +16,7 @@ function generateAgentList(): string {
 }
 
 function generateAgentNames(): string {
-  return 'Target specific agents (e.g., `claude-code`, `codex`). See [Available Agents](#supported-agents)';
+  return 'Target specific agents (e.g., `claude-code`, `codex`). See [Supported Agents](#supported-agents)';
 }
 
 function generateAvailableAgentsTable(): string {
